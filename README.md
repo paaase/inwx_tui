@@ -35,7 +35,7 @@ Python 3.10+
 
 Linux / macOS / WSL (Windows Terminal)
 
-´´´bash
+```bash
 pip install textual python-dotenv requests pyotp
 ```
 ## Usage
