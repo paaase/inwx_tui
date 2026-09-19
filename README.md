@@ -28,7 +28,7 @@ inwx_tui/
 ├── tui_app.py            # Textual TUI main interface ane event handling
 ├── main.py               # Application start karvani entrypoint script
 └── README.md             # Project documentation
-
+```
 ## Requirements
 
 Python 3.10+
@@ -37,7 +37,7 @@ Linux / macOS / WSL (Windows Terminal)
 
 ´´´bash
 pip install textual python-dotenv requests pyotp
-
+```
 ## Usage
 
 ```bash
@@ -48,4 +48,4 @@ Or, by granting execution permission:
 ```bash
 chmod +x main.py
 ./main.py
-
+```
